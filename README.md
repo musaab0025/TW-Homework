@@ -388,7 +388,7 @@
 
 This is a sample mobile automation framework built using **Java**, **Appium**, and **TestNG**, designed to automate testing of the "Create Wallet" functionality in the **Trust Wallet** Android app.
 
-##🧪 Manual Test Cases (Task 1)
+## 🧪 Manual Test Cases (Task 1)
 For Task 1, manual test cases were written above in this file however additionally there are more tests written in BDD (Gherkin) format and stored in the following file:
 
 sample-mobile-framework/src/test/java/tests/resources/manual-test-cases.feature
@@ -422,7 +422,7 @@ These describe the "Create Wallet" journey in human-readable scenarios to facili
    ```bash
    mvn test
 
-##📌 Notes
+## 📌 Notes
 DriverUtils.java provides a reusable singleton Appium driver utility.
 
 Make sure your emulator is running and Appium server is started before test execution.
